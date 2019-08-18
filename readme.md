@@ -3,7 +3,7 @@
 This repository contains materials and code examples with 
 [online course](https://webinar.skillbox.ru/messenger-python/) Python development from [SkillBox](https://skillbox.ru).
     
-This Project has been made by Artem Manchenkov (artyom@manchenkoff.me) during the 3-day online course from Skillbox(https://skillbox.ru/).
+This Project has been made by course teacher Artem Manchenkov (artyom@manchenkoff.me) during the 3-day online course from Skillbox(https://skillbox.ru/).
 Together with Artem, I was able to solve the #TODO's section of the project.
 
 ## TODO's
