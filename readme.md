@@ -33,6 +33,11 @@ To download a list of installed packages
 pip freeze > requirements.txt
 ```
 
+## Usage
+- Start server python3 server.py
+- Start client python3 qtclient.py
+- Start one more client to chat python3 qtclient.py
+
 ## Repository structure
 
 - **source** - ready mini chat project
